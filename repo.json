@@ -1,0 +1,9 @@
+
+{
+  "name": "MUHAMMET",
+  "description": "Kişisel CloudStream depom",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/erol03tv-commits/MUHAMMET/main/builds/plugins.json"
+  ]
+}
